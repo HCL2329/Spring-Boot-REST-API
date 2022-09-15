@@ -1,0 +1,6 @@
+projectKey=com.example:Spring-Boot-REST-API
+serverUrl=http://localhost:9020
+serverVersion=9.1.0.47736
+dashboardUrl=http://localhost:9020/dashboard?id=com.example%3ASpring-Boot-REST-API
+ceTaskId=AYNBW959hhLXHIL0E1XT
+ceTaskUrl=http://localhost:9020/api/ce/task?id=AYNBW959hhLXHIL0E1XT
